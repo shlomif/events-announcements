@@ -1,0 +1,24 @@
+=head1 Shlomi Fish’s Report about the 2012 Israeli Perl Workshop
+
+=head2 TODO: Add these:
+
+* Meeting FLORA/RAFL/Florian Ragwitz.
+** He told me that he is going to review and pull my Test::Aggregate
+pull request.
+** He is German, but he has an English-sounding accent.
+*** The English Accent of some Israelis sounding like French (ours seem less
+so).
+**** We can distinguish between French accent in English and Israeli Hebrew 
+accent in English and in Hebrew.
+* All the talks I wanted to hear were in room 1 (while sometimes visiting Room 
+2 to hear the ends of talks).
+* Food was interesting, and sometimes tasty.
+** The "Cheese Cake without Cheese"/etc.
+* Sawyer's talk about creating a sample CPAN distribution
+** https://metacpan.org/module/CPAN::Changes
+** Covered Dist-Zilla , Module-Install, module-starter and what every file
+does.
+* I did not stay for the post-workshop restaurant-going because I was too
+tired.
+** I found someone to give me a ride back home and we ended up struggling with
+the GPS.
