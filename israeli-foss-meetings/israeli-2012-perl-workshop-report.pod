@@ -12,6 +12,16 @@ so).
 accent in English and in Hebrew.
 * All the talks I wanted to hear were in room 1 (while sometimes visiting Room 
 2 to hear the ends of talks).
+* Talk with Amir and Meir about English knowledge vs. translation in non-Hebrew
+speaking countries.
+** Dutch people know English well, but tend to use Dutch localisation on their
+computers.
+** Whether you can translate many documents for all Spanish speakers or
+teach all Spanish speakers English.
+*** Giving fish vs. teaching how to fish.
+*** Meir said he once worked with Spanish Electrical Engineers with poor
+English and he said they were isolated from the rest of the industry due to
+poor English.
 * Food was interesting, and sometimes tasty.
 ** The "Cheese Cake without Cheese"/etc.
 * Sawyer's talk about creating a sample CPAN distribution
@@ -22,3 +32,56 @@ does.
 tired.
 ** I found someone to give me a ride back home and we ended up struggling with
 the GPS.
+* The talk about Template::Flute ( https://metacpan.org/module/Template::Flute
+).
+** Seems like an interesting and useful concept.
+** Less developer friendly than Template-Toolkit/etc.
+** Someone asked me that he thought that having a separate XML SPEC file in
+addition to the HTML template, was indicative of a problem with the module
+or its approach, but I cannot think of any way to avoid it, given the 
+limitations of HTML/XHTML.
+* Ran's talk about game programming in Perl/SDL and Tweens.
+* Ran's Syntactic Sugar talk:
+** Had to be trimmed towards the end - the introduction took too long.
+** Hopefully Ran can give a rerun on one of the mongers' meeting with more time.
+* The Time Management talk was cancelled and we had a 20 minute break (due
+to time mismanagement? ;-))
+* The Zero to CPAN talk was eventually given by Sawyer instead of Erez Schatz.
+** Very nice one, and I've learned about CPAN::Changes (from Florian, though).
+* The configuration management talk.
+** Gitflow.
+** Something else I forgot its name for change/task/project management.
+** I asked about integrated solutions (from IBM/etc.) - cost a lot and no
+experience with them.
+* Sawyer's CGI.pm Must Die talk.
+** He said he needed to become energised because the delivery was going to
+be emotional.
+** The ancedote from the other conference (FOSDEM ?).
+** The talk was indeed emotional (though the chat with him before hand 
+beforehand kinda made me expect more), but still informative and convincing.
+** Dotan's rebuttal of "CGI.pm - the only web-development framework you'll ever
+need" was less convincing, but still had a few good points.
+*** I'm not convinced that CGI.pm's HTML-generation routines are the last word
+in templating system.
+* Ynon Perek's "Implementing Perl (Moose) Design Pattern)
+** Again, not everything fit inside the time frame.
+** Inheritance vs. Roles vs. Containment/delegation and why Inheritance is
+bad.
+** I was surprised at the implementation of the Factory pattern, and don't
+remember the implementation given by Ynon.
+* Tamir Lousky - Generating vector graphics with Perl and SVG.
+** Very nice eye candy in the slides.
+** The introduction to SVG and generating it was quite rudimentary.
+** The demonstration and explanation of the tree generation module was
+interesting.
+* David Tabchnikov - Scaling Up:
+** Interesting talk.
+** Optimisation vs. Vertical Scaling (buying faster machines) vs. Horizontal
+Scaling (buying more machines and distributing them).
+** He said there's some speed difference between the various SQL databases,
+but he didn't encounter a situation where it would have made much difference.
+* Lightning talks:
+** Florian Ragwitz about Google Code-In and Google Summer-of-Code.
+** ׂGabor Szabo about surviving in an uncooperative workplace.
+*** A new middle manager who told him: “I don’t belive in automated testing.”.
+*** Create your own Island of sanity.
