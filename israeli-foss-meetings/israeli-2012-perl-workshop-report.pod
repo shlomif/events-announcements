@@ -1,7 +1,38 @@
 =head1 Shlomi Fish’s Report about the 2012 Israeli Perl Workshop
 
+This is my report about the 
+L<Israeli Perl Workshop of 2012|http://act.perl.org.il/ilpw2012/> . It was
+a fun and educational event, and I'm glad I was able to attend it. For better
+or for worse, all the talks I attended were in Room 1, but I was still able
+to hear the ends of a few talks in Room 2 (because the corresponding talks
+in Room 1 ended before them).
+
+I set up an alarm the night before in order to wake up early in time for the
+event, and ended up waking up some time before it (and even the alarm time was
+much earlier than what I was used to). Then I made some preparations, ate
+breakfast, and caught the appropriate bus. After I walked from the bus station
+to Shenkar, it took me some time to find the place, because it wasn't the
+same entrance as our normal rooms, and the signs were confusing. What I needed
+to do was to take the stairs down to the yard, and then go to the organisation
+room, but it was hard to find.
+
+There I got my sticker, the schedule, and some swag from booking.com.
+
+In the yard, I met a few people including 
+L<Florian Ragwitz|http://search.cpan.org/~flora/> (a.k.a "FLORA" on CPAN or
+"rafl" on IRC - he has many cool modules there, including quite a few XS ones),
+who was one of the workshop’s visitors from Germany. Despite being German, his
+English accent sounded English to us. Later on we discussed accents in English 
+and he noted that the accents of some Israelis he met sounded like French to 
+him (while ours seemed less so). This is strange, because Israelis can
+distinguish between a French accent in English and an Israeli Hebrew accent in
+English. 
+
+
 =head2 TODO: Add these:
 
+* Amir telling about how and why he translated the Twitter interface to
+Hebrew.
 * Meeting FLORA/RAFL/Florian Ragwitz.
 ** He told me that he is going to review and pull my Test::Aggregate
 pull request.
