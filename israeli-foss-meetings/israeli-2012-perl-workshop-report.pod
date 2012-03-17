@@ -16,7 +16,7 @@ same entrance as our normal rooms, and the signs were confusing. What I needed
 to do was to take the stairs down to the yard, and then go to the organisation
 room, but it was hard to find.
 
-There I got my sticker, the schedule, and some swag from booking.com.
+There I got my name sticker, the schedule, and some swag from booking.com.
 
 In the yard, I met a few people including 
 L<Florian Ragwitz|http://search.cpan.org/~flora/> (a.k.a "FLORA" on CPAN or
@@ -28,6 +28,68 @@ him (while ours seemed less so). This is strange, because Israelis can
 distinguish between a French accent in English and an Israeli Hebrew accent in
 English. 
 
+Anyway, Florian told me that he is planning on reviewing and pulling my
+Test::Aggregate GitHub pull request Real Soon Now™, a fact which has brought
+me some relief, because I've tried to contact him on IRC and ask him if he
+remembers.
+
+For better or for worse, all the talks that I preferred to hear took place in
+room #1 (while sometimes visiting Room #2) to hear the ends of talks. I still
+would be happy to hear many of the talks that took place in Room #2 in the
+normal Tel Aviv Perl Mongers meetings, or alternatively, those talks in room #1
+which lacked enough time to be conveyed satisfactorily.
+
+The first talk in the day was Ran Eilam’s talk about "Syntactic Sugar causes
+Cancer of the Semicolon”, which had to be trimmed towards the end, because
+the introduction may have taken too long. The talk was interesting starting
+from an example of C<< ptr->val >> being sugar in the C programming language
+for C<< (*ptr).val >> and continuing to further examples. Ran raised the issue
+of whether syntactic sugar was important or not, which turns out to not be
+a straightforward question. He then demonstrated some modules for syntactic
+sugar on CPAN.
+
+I hope Ran can give a rerun of it on one of the mongers' meetings with more
+time allocated for that.
+
+After that I attended the talk of Stefan Hornburg (“racke”) about
+L<Template::Flute|http://act.perl.org.il/ilpw2012/talk/3955> which is a
+designer’s friendly template system. In this template, one uses an HTML file
+with standard HTML attributes for designating the fields that needs to be
+replaced, and then an XML specification file that specifies how to process 
+the HTML (and in addition one uses Perl to give it data). As a result the 
+designers can manipulate the HTML with their own tools, while still
+allowing the programmers to populate it with data.
+
+This seems like an interesting and potentially useful tool, but it’s
+less expressive than template systems such as Template Toolkit. After the talk,
+another attendee whom we talked in private questioned the need for both the
+HTML file and the XML specification, but I didn't find a way to avoid it
+given the constraints that the HTML will be valid HTML 4/XHTML 1.
+
+The next talk about Time Management in Software Projects was cancelled because
+the presenter did not come (due to lack of time management as we joked then).
+I was able to catch a glimpse of the end of Dotan Dimet’s “Perl and JavaScript:
+bioinformatics in a browser window” talk, but I don’t remember a lot for
+it except for some demonstration.
+
+The talk about Zero to CPAN was eventually given by Sawyer instead of by
+Erez Schatz. It was a nice one, and I've learned about 
+L<the CPAN-Changes module|http://metacpan.org/release/CPAN-Changes> there
+(after Florian mentioned it, though). Sawyer covered the way to get to a
+working CPAN-like distribution from scratch using tools such as
+module-starter and explained what every file in the CPAN module hierarchy
+does, and demonstrated some test-driven-development. I knew most of it already,
+but it was still a fun talk.
+
+Amir Friedman‘s talk about software configuration management (SCM) came next, 
+and he discussed some open-source solutions for the various parts of SCM,
+which include version control, release management, task management, and
+project management. He recommended Gitflow (which we had a talk about
+on the Tel Aviv mongers mailing list) for version control and release
+management, and a different solution called Jenkins for issue tracking (if
+I remember correctly). I then asked what he thought of integrated “all-in-one”
+solutions for SCM, and he said that those were pricey and he did not have
+any significant experience with them.
 
 =head2 TODO: Add these:
 
