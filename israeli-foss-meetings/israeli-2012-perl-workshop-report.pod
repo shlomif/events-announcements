@@ -91,6 +91,48 @@ I remember correctly). I then asked what he thought of integrated “all-in-one�
 solutions for SCM, and he said that those were pricey and he did not have
 any significant experience with them.
 
+The lunch break came next and I overheard a talk between two other people
+about teaching English to speakers of non-English languages. One of them
+said that he once worked with some Spanish Electrical Engineers and that they
+were “completely isolated” from the rest of the world because they didn’t
+read the literature in English. Then we discussed whether it was economical
+to teach hundreds of millions of speakers of Spanish English, or whether
+we should expect most things to be translated. It was compared to the
+“give a man a fish” vs. “teach a man to fish”. We also discussed the fact that
+Dutchmen tended to have very good English, and one of the other people
+commented that it was true, but that they still tended to prefer using
+software with Dutch localisation.
+
+I’ve also talked with Sawyer about his upcoming 
+L<“CGI.pm MUST DIE!” talk|http://act.perl.org.il/ilpw2012/talk/3936>. He
+said that he needs to become mentally energised for that talk because he
+feels strongly about it and wants to convey the energy. He passed an
+anecdote from a conference in Europe, in which he had given a talk about
+Dancer, and said he was so emotional then that people said “You must
+see him” and rushed to see his other talk. Moreover, afterwards, when asked
+who were the two best presenters in the conference, they said “[Someone
+very famous] and that Dancer guy”.
+
+The anti-CGI.pm presenting was indeed energetic and emotional, but kinda fell
+below my expectations due to the yard talk that preceded it. It was still
+pretty informative. Dotan Dimet later took the stage for the rebuttal
+of “CGI.pm - the only web development framework you’ll ever need” which was
+less emotional but still interesting. I was not convinced that CGI.pm’s
+HTML generation routines were a good way to do output HTML (I never really
+liked them), so I may have been more convinced by Sawyer.
+
+Ynon Perek's L<talk|http://act.perl.org.il/ilpw2012/talk/3977> about
+“Implementing Perl (Moose) Design Patterns” came next, which was interesting,
+but again lacked adequate time to cover everything, and I hope will be given
+with less time constraints. One anecdote from there was that Ynon said there
+where three primary ways for polymorphism in Perl: Inheritance (“is-a”), 
+Roles/Traits (“does-a”) and Containment/Delegation (“has-a”) and that
+he could no longer recommend inheritance (but did not get to explain why not
+from what I recall).
+
+In any case, I was surprised at Ynon’s implementation of the Factory
+pattern, and don’t remember the implementation given by him.
+
 =head2 TODO: Add these:
 
 * Amir telling about how and why he translated the Twitter interface to
@@ -156,7 +198,7 @@ beforehand kinda made me expect more), but still informative and convincing.
 need" was less convincing, but still had a few good points.
 *** I'm not convinced that CGI.pm's HTML-generation routines are the last word
 in templating system.
-* Ynon Perek's "Implementing Perl (Moose) Design Pattern)
+* Ynon Perek's "Implementing Perl (Moose) Design Patterns"
 ** Again, not everything fit inside the time frame.
 ** Inheritance vs. Roles vs. Containment/delegation and why Inheritance is
 bad.
