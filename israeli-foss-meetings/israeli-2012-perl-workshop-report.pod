@@ -71,8 +71,8 @@ given the constraints that the HTML will be valid HTML 4/XHTML 1.
 The next talk about Time Management in Software Projects was cancelled because
 the presenter did not come (due to lack of time management as we joked then).
 I was able to catch a glimpse of the end of Dotan Dimet’s “Perl and JavaScript:
-bioinformatics in a browser window” talk, but I don’t remember a lot for
-it except for some demonstration.
+bioinformatics in a browser window” talk, but I don’t remember a lot of
+it except for a small amount of demonstration.
 
 The talk about Zero to CPAN was eventually given by Sawyer instead of by
 Erez Schatz. It was a nice one, and I've learned about 
