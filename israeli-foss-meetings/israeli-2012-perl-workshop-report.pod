@@ -51,7 +51,9 @@ sugar on CPAN.
 I hope Ran can give a rerun of it on one of the mongers' meetings with more
 time allocated for that.
 
-After that I attended the talk of Stefan Hornburg (“racke”) about
+After that I attended the talk of Stefan Hornburg (“racke”, known as
+L<HORNBURG on CPAN|http://search.cpan.org/~hornburg/>) who was another
+visitor from Germany, about
 L<Template::Flute|http://act.perl.org.il/ilpw2012/talk/3955> which is a
 designer’s friendly template system. In this template, one uses an HTML file
 with standard HTML attributes for designating the fields that needs to be
