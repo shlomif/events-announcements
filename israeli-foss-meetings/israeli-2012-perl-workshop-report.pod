@@ -1,6 +1,6 @@
 =head1 Shlomi Fish’s Report about the 2012 Israeli Perl Workshop
 
-This is my report about the 
+This is my report about the
 L<Israeli Perl Workshop of 2012|http://act.perl.org.il/ilpw2012/> . It was
 a fun and educational event, and I'm glad I was able to attend it. For better
 or for worse, all the talks I attended were in Room 1, but I was still able
@@ -22,15 +22,15 @@ Perl Workshop 2012 (as well as having a presence there and giving some swag
 and chocolates), and they are looking for software developers with Perl
 experience to relocate to Amsterdam, so please consider working for them.
 
-In the yard, I met a few people including 
+In the yard, I met a few people including
 L<Florian Ragwitz|http://search.cpan.org/~flora/> (a.k.a "FLORA" on CPAN or
 "rafl" on IRC - he has many cool modules there, including quite a few XS ones),
 who was one of the workshop’s visitors from Germany. Despite being German, his
-English accent sounded English to us. Later on we discussed accents in English 
-and he noted that the accents of some Israelis he met sounded like French to 
+English accent sounded English to us. Later on we discussed accents in English
+and he noted that the accents of some Israelis he met sounded like French to
 him (while ours seemed less so). This is strange, because Israelis can
 distinguish between a French accent in English and an Israeli Hebrew accent in
-English. 
+English.
 
 Anyway, Florian told me that he is planning on reviewing and pulling my
 Test::Aggregate GitHub pull request Real Soon Now™, a fact which has brought
@@ -43,9 +43,9 @@ would be happy to hear many of the talks that took place in Room #2 in the
 normal Tel Aviv Perl Mongers meetings, or alternatively, those talks in room #1
 which lacked enough time to be conveyed satisfactorily.
 
-The first talk in the day was 
-L<http://search.cpan.org/~eilara/|Ran Eilam>’s talk about "Syntactic Sugar 
-causes Cancer of the Semicolon”, which had to be trimmed towards the end, 
+The first talk in the day was
+L<http://search.cpan.org/~eilara/|Ran Eilam>’s talk about "Syntactic Sugar
+causes Cancer of the Semicolon”, which had to be trimmed towards the end,
 because
 the introduction may have taken too long. The talk was interesting starting
 from an example of C<< ptr->val >> being sugar in the C programming language
@@ -63,8 +63,8 @@ visitor from Germany, about
 L<Template::Flute|http://act.perl.org.il/ilpw2012/talk/3955> which is a
 designer’s friendly template system. In this template, one uses an HTML file
 with standard HTML attributes for designating the fields that needs to be
-replaced, and then an XML specification file that specifies how to process 
-the HTML (and in addition one uses Perl to give it data). As a result the 
+replaced, and then an XML specification file that specifies how to process
+the HTML (and in addition one uses Perl to give it data). As a result the
 designers can manipulate the HTML with their own tools, while still
 allowing the programmers to populate it with data.
 
@@ -76,14 +76,14 @@ given the constraints that the HTML will be valid HTML 4/XHTML 1.
 
 The next talk about Time Management in Software Projects was cancelled because
 the presenter did not come (due to lack of time management as we joked then).
-I was able to catch a glimpse of the end of 
+I was able to catch a glimpse of the end of
 L<Dotan Dimet|http://corky.net/dotan/>’s “Perl and JavaScript:
 bioinformatics in a browser window” talk, but I don’t remember a lot of
 it except for a small amount of demonstration.
 
-The talk about Zero to CPAN was eventually given by 
+The talk about Zero to CPAN was eventually given by
 L<Sawyer|http://blogs.perl.org/users/sawyer_x/> instead of by
-L<Erez Schatz|http://blogs.perl.org/users/erez_schatz/>. It was a nice one, and I’ve learned about 
+L<Erez Schatz|http://blogs.perl.org/users/erez_schatz/>. It was a nice one, and I’ve learned about
 L<the CPAN-Changes module|http://metacpan.org/release/CPAN-Changes> there
 (after Florian mentioned it, though). Sawyer covered the way to get to a
 working CPAN-like distribution from scratch using tools such as
@@ -91,8 +91,8 @@ module-starter and explained what every file in the CPAN module hierarchy
 does, and demonstrated some test-driven-development. I knew most of it already,
 but it was still a fun talk.
 
-L<Amir Friedman|http://www.linkedin.com/in/amirfr>‘s talk about software 
-configuration management (SCM) came next, 
+L<Amir Friedman|http://www.linkedin.com/in/amirfr>‘s talk about software
+configuration management (SCM) came next,
 and he discussed some open-source solutions for the various parts of SCM,
 which include version control, release management, task management, and
 project management. He recommended Gitflow (which we had a talk about
@@ -114,7 +114,7 @@ Dutchmen tended to have very good English, and one of the other people
 commented that it was true, but that they still tended to prefer using
 software with Dutch localisation.
 
-I’ve also talked with Sawyer about his upcoming 
+I’ve also talked with Sawyer about his upcoming
 L<“CGI.pm MUST DIE!” talk|http://act.perl.org.il/ilpw2012/talk/3936>. He
 said that he needs to become mentally energised for that talk because he
 feels strongly about it and wants to convey the energy. He passed an
@@ -132,12 +132,12 @@ less emotional but still interesting. I was not convinced that CGI.pm’s
 HTML generation routines were a good way to do output HTML (I never really
 liked them), so I may have been more convinced by Sawyer.
 
-L<Ynon Perek|http://www.ynonperek.com/>’s 
+L<Ynon Perek|http://www.ynonperek.com/>’s
 L<talk|http://act.perl.org.il/ilpw2012/talk/3977> about
 “Implementing Perl (Moose) Design Patterns” came next, which was interesting,
 but again lacked adequate time to cover everything, and I hope will be given
 with less time constraints. One anecdote from there was that Ynon said there
-where three primary ways for polymorphism in Perl: Inheritance (“is-a”), 
+where three primary ways for polymorphism in Perl: Inheritance (“is-a”),
 Roles/Traits (“does-a”) and Containment/Delegation (“has-a”) and that
 he could no longer recommend inheritance (but did not get to explain why not
 from what I recall).
@@ -145,9 +145,9 @@ from what I recall).
 In any case, I was surprised at Ynon’s implementation of the Factory
 pattern, and don’t remember the implementation given by him.
 
-Next came Tamir Lousky’s 
-L<talk|http://act.perl.org.il/ilpw2012/talk/3953> about generating vector 
-graphics with Perl and SVG. Its slides contained a lot of very nice eye candy. 
+Next came Tamir Lousky’s
+L<talk|http://act.perl.org.il/ilpw2012/talk/3953> about generating vector
+graphics with Perl and SVG. Its slides contained a lot of very nice eye candy.
 The introduction
 to SVG and generating it was quite rudimentary, and did not cover the full
 potential of SVG. The demonstration and explanation of the module for
@@ -163,7 +163,7 @@ situation where it would have made too much difference.
 
 The last feature of the evening were the lightning talks. I recall a talk
 by Florian Ragwitz about Google Code-In and Google Summer-of-Code. I also
-recall L<Gabor|http://szabgab.com/>’s talk about surviving in an uncooperative 
+recall L<Gabor|http://szabgab.com/>’s talk about surviving in an uncooperative
 workplace. He said
 that if the workplace does not practise best practices such as using version
 control systems or writing automated tests, one can create their own
@@ -174,15 +174,15 @@ After the lightning talks, some people went to a local restaurant for dinner,
 but I decided against it because I was too tired from waking up early. As a
 result, I found someone who drove up north to drive me home, and got home.
 
-In the schedule I noticed that one could go to a certain URL at 
+In the schedule I noticed that one could go to a certain URL at
 L<O’Reilly|http://www.oreilly.com/> and
 receive a free E-book of their choice. I used this opportunity to get the book
 L<Beautiful Code|http://shop.oreilly.com/product/9780596510046.do> , which
 I have started reading.
 
 The day was exhausting but very fun, and I enjoyed all the talks I attended.
-I’d like to thank the organisers of the event and most notably 
-L<Gabor Szabo|http://szabgab.com/> and Sawyer X, 
+I’d like to thank the organisers of the event and most notably
+L<Gabor Szabo|http://szabgab.com/> and Sawyer X,
 L<Shenkar college|http://www.shenkar.ac.il/> for providing the venue,
 L<Booking.com|http://www.booking.com/> for the sponsorship, O’Reilly for
 the free book presents, the foreign guests who came to present and to attend,

@@ -8,9 +8,9 @@ pull request.
 ** He is German, but he has an English-sounding accent.
 *** The English Accent of some Israelis sounding like French (ours seem less
 so).
-**** We can distinguish between French accent in English and Israeli Hebrew 
+**** We can distinguish between French accent in English and Israeli Hebrew
 accent in English and in Hebrew.
-* All the talks I wanted to hear were in room 1 (while sometimes visiting Room 
+* All the talks I wanted to hear were in room 1 (while sometimes visiting Room
 2 to hear the ends of talks).
 * Talk with Amir and Meir about English knowledge vs. translation in non-Hebrew
 speaking countries.
@@ -38,7 +38,7 @@ the GPS.
 ** Less developer friendly than Template-Toolkit/etc.
 ** Someone asked me that he thought that having a separate XML SPEC file in
 addition to the HTML template, was indicative of a problem with the module
-or its approach, but I cannot think of any way to avoid it, given the 
+or its approach, but I cannot think of any way to avoid it, given the
 limitations of HTML/XHTML.
 * Ran's talk about game programming in Perl/SDL and Tweens.
 * Ran's Syntactic Sugar talk:
@@ -57,7 +57,7 @@ experience with them.
 ** He said he needed to become energised because the delivery was going to
 be emotional.
 ** The ancedote from the other conference (FOSDEM ?).
-** The talk was indeed emotional (though the chat with him before hand 
+** The talk was indeed emotional (though the chat with him before hand
 beforehand kinda made me expect more), but still informative and convincing.
 ** Dotan's rebuttal of "CGI.pm - the only web-development framework you'll ever
 need" was less convincing, but still had a few good points.
